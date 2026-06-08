@@ -2,7 +2,7 @@
 Categories=System;
 Comment=Open a software management application
 Exec=kubuntu-manage-software
-Icon=/home/seijeeos/Pictures/icons/eos-linux-manage_software.png
+Icon=/home/username/Pictures/icons/eos-linux-manage_software.png
 Keywords=System;Maintenance;Software;Manage;Install
 Name=Manage Software
 NoDisplay=false
