@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=System;
+Comment=Open a software management application
+Exec=kubuntu-manage-software
+Icon=/home/seijeeos/Pictures/icons/eos-linux-manage_software.png
+Keywords=System;Maintenance;Software;Manage;Install
+Name=Manage Software
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

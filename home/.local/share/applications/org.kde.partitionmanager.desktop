@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=System;Filesystem;KDE;Qt;
+Comment=Manage disks, partitions, and file systems
+Exec=partitionmanager
+GenericName=Partition Editor
+Icon=/home/seijeeos/Pictures/icons/eos-linux-partition.png
+Keywords=partition;disk;
+Name=KDE Partition Manager
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+SingleMainWindow=true
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

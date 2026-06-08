@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Qt;KDE;Network;InstantMessaging
+Comment=Read and send SMS messages on connected devices
+Exec=kdeconnect-sms
+GenericName=Text Messaging
+Icon=/home/seijeeos/Pictures/icons/eos-linux-kdeconnect.png
+Name=KDE Connect SMS
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+SingleMainWindow=true
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.kdeconnect.sms
+X-DBUS-StartupType=Unique
+X-KDE-SubstituteUID=false
+X-KDE-Username=

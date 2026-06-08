@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Qt;KDE;System;Documentation;
+Comment=Learn about the system's hardware and status
+Exec=kinfocenter
+GenericName=Info Center
+Icon=/home/seijeeos/Pictures/icons/eos-linux-kinfocenter.png
+Keywords=kinfocenter
+Name=Info Center
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.kinfocenter
+X-DBUS-StartupType=Unique
+X-DocPath=kinfocenter/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Network;FileTransfer;
+Comment=Download and upload files via FTP, FTPS and SFTP
+Exec=filezilla
+GenericName=FTP client
+Icon=/home/seijeeos/Pictures/icons/eos-linux-filezilla.png
+Name=FileZilla
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

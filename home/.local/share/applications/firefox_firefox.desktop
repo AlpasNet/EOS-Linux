@@ -1,0 +1,38 @@
+[Desktop Entry]
+Actions=new-window;new-private-window;open-profile-manager;
+Categories=GNOME;GTK;Network;WebBrowser;
+Comment=Fast and private browser
+Exec=/snap/bin/firefox %u
+GenericName=Web Browser
+Icon=/home/seijeeos/Pictures/icons/eos-linux-firefox.png
+Keywords=Internet;WWW;Browser;Web;Explorer;
+MimeType=application/json;application/pdf;application/rdf+xml;application/rss+xml;application/x-xpinstall;application/xhtml+xml;application/xml;audio/flac;audio/ogg;audio/webm;image/avif;image/gif;image/jpeg;image/png;image/svg+xml;image/webp;text/html;text/xml;video/ogg;video/webm;x-scheme-handler/chrome;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/mailto;
+Name=Firefox
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=firefox_firefox
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapAppName=firefox
+X-SnapInstanceName=firefox
+
+[Desktop Action new-private-window]
+Exec=/snap/bin/firefox --private-window %u
+Name=New Private Window
+X-SnapAppName=firefox
+
+[Desktop Action new-window]
+Exec=/snap/bin/firefox --new-window %u
+Name=New Window
+X-SnapAppName=firefox
+
+[Desktop Action open-profile-manager]
+Exec=/snap/bin/firefox --ProfileManager
+Name=Open Profile Manager
+X-SnapAppName=firefox

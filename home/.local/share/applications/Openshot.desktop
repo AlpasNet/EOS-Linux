@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Video Editor
+Exec=/home/seijeeos/Programs/OpenShot-v3.5.1-x86_64.AppImage %U
+GenericName=Video Editor
+Icon=/home/seijeeos/Pictures/icons/eos-linux-openshot.png
+Name=Openshot
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

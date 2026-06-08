@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=GTK;Development;IDE;TextEditor;
+Comment=A fast and lightweight IDE using GTK+
+Exec=geany %F
+GenericName=Integrated Development Environment
+Icon=/home/seijeeos/Pictures/icons/eos-linux-geany.png
+Keywords=Text;Editor;
+MimeType=text/plain;text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php3;application/x-httpd-php4;application/x-httpd-php5;application/xml;text/html;text/css;text/x-sql;text/x-diff;
+Name=Geany
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

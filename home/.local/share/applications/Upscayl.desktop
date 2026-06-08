@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Enhance your images using AI
+Exec=/home/seijeeos/Programs/upscayl-2.15.0-linux.AppImage
+GenericName=Enhance your images using AI
+Icon=/home/seijeeos/Pictures/icons/eos-linux-upscayl.png
+Name=Upscayl
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

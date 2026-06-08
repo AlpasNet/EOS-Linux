@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Settings
+Comment=Set Keyboard Input Method
+Exec=im-config
+Icon=/home/seijeeos/Pictures/icons/eos-linux-kbinput.png
+Keywords=keyboard;input
+Name=Input Method
+NoDisplay=false
+OnlyShowIn=KDE;LXQt;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-AppStream-Ignore=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Ubuntu-Gettext-Domain=im-config

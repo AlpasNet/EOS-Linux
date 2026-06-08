@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Image Editor
+Exec=/home/seijeeos/Programs/GIMP-3.2.4-x86_64.AppImage %U
+GenericName=Image Editor
+Icon=/home/seijeeos/Pictures/icons/eos-linux-gimp.png
+Name=GIMP
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

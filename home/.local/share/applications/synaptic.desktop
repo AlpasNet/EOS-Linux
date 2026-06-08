@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=PackageManager;GTK;System;Settings;
+Comment=Install, remove and upgrade software packages
+Exec=synaptic-pkexec
+GenericName=Package Manager
+Icon=/home/seijeeos/Pictures/icons/eos-linux-manage_software.png
+Name=Synaptic Package Manager
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=synaptic
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Ubuntu-Gettext-Domain=synaptic
