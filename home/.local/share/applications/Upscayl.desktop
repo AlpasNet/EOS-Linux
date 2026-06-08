@@ -1,8 +1,8 @@
 [Desktop Entry]
 Comment=Enhance your images using AI
-Exec=/home/seijeeos/Programs/upscayl-2.15.0-linux.AppImage
+Exec=/home/seijeeos/Programs/upscayl.AppImage
 GenericName=Enhance your images using AI
-Icon=/home/seijeeos/Pictures/icons/eos-linux-upscayl.png
+Icon=/home/username/Pictures/icons/eos-linux-upscayl.png
 Name=Upscayl
 NoDisplay=false
 Path=
