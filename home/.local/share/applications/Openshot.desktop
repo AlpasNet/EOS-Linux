@@ -1,8 +1,8 @@
 [Desktop Entry]
 Comment=Video Editor
-Exec=/home/username/Programs/OpenShot.AppImage %U
+Exec=/home/seijeeos/Programs/OpenShot.AppImage %U
 GenericName=Video Editor
-Icon=/home/username/Pictures/icons/eos-linux-openshot.png
+Icon=/home/seijeeos/Pictures/icons/eos-linux-openshot.png
 Name=Openshot
 NoDisplay=false
 Path=

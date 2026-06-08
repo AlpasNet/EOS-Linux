@@ -2,7 +2,7 @@
 Categories=System;
 Comment=Select drivers for this system
 Exec=kubuntu-driver-manager
-Icon=/home/username/Pictures/icons/eos-linux-drivermanager.png
+Icon=/home/seijeeos/Pictures/icons/eos-linux-drivermanager.png
 Keywords=System;Drivers;Install;Kubuntu Driver Manager;kubuntu-driver-manager
 Name=Driver Manager
 NoDisplay=false

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Comment=Image Editor
-Exec=/home/username/Programs/GIMP.AppImage %U
+Exec=/home/seijeeos/Programs/GIMP.AppImage %U
 GenericName=Image Editor
-Icon=/home/username/Pictures/icons/eos-linux-gimp.png
+Icon=/home/seijeeos/Pictures/icons/eos-linux-gimp.png
 Name=GIMP
 NoDisplay=false
 Path=

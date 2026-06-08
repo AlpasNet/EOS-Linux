@@ -2,7 +2,7 @@
 Categories=Settings
 Comment=Set Keyboard Input Method
 Exec=im-config
-Icon=/home/username/Pictures/icons/eos-linux-kbinput.png
+Icon=/home/seijeeos/Pictures/icons/eos-linux-kbinput.png
 Keywords=keyboard;input
 Name=Input Method
 NoDisplay=false
