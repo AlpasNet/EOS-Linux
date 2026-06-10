@@ -40,4 +40,4 @@ grep -RIl "$OLD_USER" "home" | while read -r file; do
     sed -i "s|$OLD_USER|$NEW_USER|g" "$file"
 done
 
-cp ./home/* /home/$NEW_USER/
+cp -dR ./home/* /home/$NEW_USER/
