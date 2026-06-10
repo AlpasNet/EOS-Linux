@@ -2,7 +2,6 @@
 
 OLD_USER="seijeeos"
 NEW_USER="$1"
-TARGET_DIR="home"
 
 if [ -z "$NEW_USER" ]; then
     echo "Error : you must put your username."
